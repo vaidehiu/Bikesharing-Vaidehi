@@ -20,7 +20,7 @@
 
 
 ## Conclusions
--The top 3 influence on the bike booking /demand
+- The top 3 influence on the bike booking /demand
     -temp : A coefficient value of 4794.5384 indicated that a unit increase in temp variable increases the bike demand by same number
     - yr : A coefficient value of 2075.5328 indicated that a unit increase in yr variable increases the bike demand by same number
     - season_winter : A coefficient value of 1022.4238 indicated that a unit increase in yr variable increases the bike demand by same number
