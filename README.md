@@ -20,6 +20,8 @@
 
 
 ## Conclusions
+- <b>Model Summary of FINAL MODEL:</b><br>
+    ![Modelsummary](https://github.com/vaidehiu/Bikesharing-Vaidehi/blob/main/assets/Model_Summary.PNG)
 - The top 3 influence on the bike booking /demand
     - temp : A coefficient value of 4794.5384 indicated that a unit increase in temp variable increases the bike demand by same number
     - yr : A coefficient value of 2075.5328 indicated that a unit increase in yr variable increases the bike demand by same number
